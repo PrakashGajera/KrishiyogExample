@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Krishiyog Example</string>
+    <string name="no_data">No Data</string>
+    <string name="no_internet">Please check your internet connection</string>
+    <string name="network_error">Network error, could get data,please try again!</string>
+    <string name="refresh">refresh</string>
+    <string name="something_went_wrong">Something went to wrong</string>
+    <string name="an_alien_is_probably_blocking_your_signal">An alien is probably blocking your signal.</string>
+</resources>

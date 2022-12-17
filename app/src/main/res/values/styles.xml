@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="ActionBarAppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+
+        <item name="actionBarTheme">@style/ThemeOverlay.Actionbar</item>
+
+    </style>
+
+    <style name="ThemeOverlay.Actionbar" parent="ThemeOverlay.MaterialComponents.ActionBar.Surface" >
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:actionMenuTextColor">@color/black</item>
+    </style>
+
+</resources>
